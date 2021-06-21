@@ -16,4 +16,4 @@ Owners
 
 ・[bichoute aka wassim](https://github.com/bichoute)
 
-・[Irox](https://github.com/Iroxx)
+・[Irox](https://github.com/Irooxx)
